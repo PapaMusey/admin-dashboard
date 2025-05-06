@@ -1,6 +1,6 @@
 import React from 'react'
 
-const ChartsHeader = () => {
+const Chat = () => {
   return (
     <div>
       
@@ -8,4 +8,4 @@ const ChartsHeader = () => {
   )
 }
 
-export default ChartsHeader
+export default Chat
